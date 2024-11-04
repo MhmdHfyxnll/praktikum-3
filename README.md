@@ -161,3 +161,5 @@ jika dibulatkan menjadi : 402
 - Program meminta input angka kedua.
 - Fungsi kalkulator() memproses input sesuai operator.
 - Menampilkan hasil perhitungan.
+
+![Flowchart](flowchartkalkulator.png)
